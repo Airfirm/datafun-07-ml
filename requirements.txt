@@ -22,5 +22,7 @@ loguru
 pyttsx3
 ipython
 jupyter
-ipwidgets
-sklearn
+# ipwidgets
+scikit-learn
+ipykernel
+matplotlib.pyplot
