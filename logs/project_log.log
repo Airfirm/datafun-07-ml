@@ -1,0 +1,7 @@
+2025-06-13 14:59:59.455 | INFO     | __main__:<module>:41 - Logging to file: logs\project_log.log
+2025-06-13 14:59:59.455 | INFO     | __main__:main:63 - STARTING utils.logger.py
+2025-06-13 14:59:59.455 | INFO     | __main__:log_example:54 - This is an example info message.
+2025-06-13 14:59:59.456 | WARNING  | __main__:log_example:55 - This is an example warning message.
+2025-06-13 14:59:59.456 | ERROR    | __main__:log_example:56 - This is an example error message.
+2025-06-13 14:59:59.456 | INFO     | __main__:main:68 - View the log output at logs\project_log.log
+2025-06-13 14:59:59.456 | INFO     | __main__:main:69 - EXITING utils.logger.py.
